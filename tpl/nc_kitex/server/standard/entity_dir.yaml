@@ -1,0 +1,5 @@
+path: internal/entity
+update_behavior:
+  type: skip
+body: |-
+}

@@ -1,0 +1,7 @@
+path: internal/schema/hello_schema.go
+update_behavior:
+  type: skip
+body: |-
+  package schema
+  type Hello struct {}
+}
